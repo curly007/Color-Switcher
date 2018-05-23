@@ -1,0 +1,12 @@
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\bin\Debug\Color Switcher.exe.config
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\bin\Debug\Color Switcher.exe
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\bin\Debug\Color Switcher.pdb
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\obj\Debug\Color Switcher.csprojResolveAssemblyReference.cache
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\obj\Debug\Color_Switcher.Properties.Resources.resources
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\obj\Debug\Color Switcher.csproj.GenerateResource.Cache
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\obj\Debug\Color Switcher.csproj.CoreCompileInputs.cache
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\obj\Debug\Color Switcher.exe
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\obj\Debug\Color Switcher.pdb
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\obj\Debug\Color_Switcher.MainForm.resources
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\obj\Debug\Color_Switcher.optionsDialog.resources
+C:\Users\dfriesen1\OneDrive - Shaw Communications Inc-\coding\Visual Studio\repos\Color Switcher\Color Switcher\obj\Debug\Color_Switcher.AboutDialog.resources
